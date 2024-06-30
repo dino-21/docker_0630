@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: apa000ex91
-      image: httpd
-      ports:
-      - containerPort: 80
+    image: httpd
+    ports:
+    - containerPort: 80
